@@ -1358,6 +1358,7 @@ footer .under .copy:hover{
     }
     .first{
         transform: translateY(-5vh);
+        
     }
     nav {
         padding: 8px 32px;
